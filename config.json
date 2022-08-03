@@ -1,0 +1,10 @@
+{ 
+	"applicationid":"", 
+ 	"name":"",
+ 	"head":"",
+ 	"description":"",
+ 	"imagename":"",
+  "smallimgname": "",
+  "status": "idle",
+ 	"type":"WATCHING"
+}

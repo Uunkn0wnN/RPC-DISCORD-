@@ -1,10 +1,10 @@
 { 
-	"applicationid":"", 
- 	"name":"",
- 	"head":"",
- 	"description":"",
- 	"imagename":"",
-  "smallimgname": "",
+	"applicationid":"897359232117133324", 
+ 	"name":"PEKOB.NET",
+ 	"head":"pekob.net [ID, NSFW, Social]",
+ 	"description":"https://discord.gg/YzpFy77yB7",
+ 	"imagename":"iimagw",
+  "smallimgname": "small",
   "status": "idle",
- 	"type":"WATCHING"
+ 	"type":"STREAMING"
 }

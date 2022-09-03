@@ -1,10 +1,10 @@
 { 
-	"applicationid":"903364186652966942", 
- 	"name":"PEKOB.NET",
- 	"head":"pekob.net [ID, NSFW, Social]",
- 	"description":"https://discord.gg/YzpFy77yB7",
- 	"imagename":"Github_1",
-        "smallimgname": "Github_2",
-        "status": "idle",
- 	"type":"PLAYING"
+ "applicationid":"903364186652966942", 
+ "name":"PEKOB.NET",
+ "head":"pekob.net [ID, NSFW, Social]",
+ "description":"https://discord.gg/YzpFy77yB7",
+ "imagename":"Github_1",
+ "smallimgname": "Github_2",
+ "status": "idle",
+ "type":"PLAYING"
 }

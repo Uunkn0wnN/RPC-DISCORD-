@@ -1,10 +1,10 @@
 { 
-	"applicationid":"897359232117133324", 
+	"applicationid":"1014606828715380856", 
  	"name":"PEKOB.NET",
  	"head":"pekob.net [ID, NSFW, Social]",
  	"description":"https://discord.gg/YzpFy77yB7",
- 	"imagename":"iimagw",
-  "smallimgname": "small",
+ 	"imagename":"Github",
+  "smallimgname": "Github",
   "status": "idle",
  	"type":"PLAYING"
 }
